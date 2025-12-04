@@ -53,7 +53,7 @@ Stack Swarm + secrets + scaling + stratégie de mise à jour.
 
 ## 🏗️ 3. Construction de l’image
 
-```bash
+
 cd app
 docker build -t flask-swarm-demo:1.0 .
 ![alt text](image-6.png)
